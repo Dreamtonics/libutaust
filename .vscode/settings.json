@@ -1,0 +1,6 @@
+{
+  "cmake.configureArgs": [
+    "-DUTAUST_BUILD_TESTS=ON",
+    "-DCMAKE_COLOR_DIAGNOSTICS=ON",
+  ],
+}

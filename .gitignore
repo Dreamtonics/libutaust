@@ -1,0 +1,28 @@
+__pycache__/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VS Code files for those working on multiple tools
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# Local History for Visual Studio Code
+.history/
+
+# Mac garbage
+.DS_Store
+
+# utaust
+/build/
+/install/
+*.wav
+
+*.vcxproj.user
+
+.cache
+.vs
